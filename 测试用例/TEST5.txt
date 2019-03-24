@@ -1,0 +1,8 @@
+program example5;
+var  A,B,C,D,W:integer;
+begin
+	A:=5; B:=4; C:=3; D:=2; W:=1;
+	if W>=1 then A:=B*C+B/D
+		else repeat A:=A+1 until A<0
+end.
+

@@ -1,0 +1,9 @@
+and  array  begin  bool  call
+case  char  constant  dim  do
+else  end  false  for  if
+input  integer  not  of  or
+output  procedure  program  read  real
+repeat  set  stop  then  to
+true  until  var  while  write
+abc  123  'EFG'  (  )  *  +  ,  -  .  ..  /
+:  :=  ;  <  <=  <>  =  >  >=  [  ]

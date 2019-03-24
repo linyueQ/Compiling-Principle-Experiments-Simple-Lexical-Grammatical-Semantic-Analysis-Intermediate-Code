@@ -1,0 +1,8 @@
+program example5;
+var  A,B,C,D:integer;
+begin
+	A:=5; B:=4; C:=3; D:=2;
+	if A<B+C A/B>D or B<C+D 
+	then A:=A*2
+end.
+

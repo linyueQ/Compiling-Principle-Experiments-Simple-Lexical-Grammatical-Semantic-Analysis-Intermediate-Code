@@ -1,0 +1,7 @@
+program  example2;
+var  A,B,C:integer;
+     X,Y:bool;
+begin  /*  this  is  an  example  */
+  A:=B*C+37;
+  X:='ABC'
+end.

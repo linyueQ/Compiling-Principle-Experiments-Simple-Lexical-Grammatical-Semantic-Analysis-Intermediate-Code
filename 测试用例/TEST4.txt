@@ -1,0 +1,8 @@
+program example4;
+var  A,B,C,D:integer;
+begin
+  A:=1; B:=5; C:=3; D:=4;
+  while A<C and B>D do
+	if A=1 then C:=C+1 else
+		while A<=D do A:=A*2
+end.
